@@ -21,16 +21,16 @@ http://passes-present.eu/fr/atelier-5-pour-une-etude-des-usages-du-patrimoine-nu
 
 Utilisateurs | Nbre de tweets | % de RT
 --- | --- | ---
-peccadille|	74|	30%|
-seeksanusername	|33	|0|
-anouchkata|	29|	100%|
-LabexPasp|	18|	17%|
-mn3sYs|	15	|7%|
-jrmdns|	9	|44%|
-amarois	|8	|100%|
-RegisStauder|	7|	57%|
-archives_masala|	5|	100%|
-AlexisMoisdon	|5|	80%|
+@peccadille|	74|	30%|
+@seeksanusername	|33	|0|
+@anouchkata|	29|	100%|
+@LabexPasp|	18|	17%|
+@mn3sYs|	15	|7%|
+@jrmdns|	9	|44%|
+@amarois	|8	|100%|
+@RegisStauder|	7|	57%|
+@archives_masala|	5|	100%|
+@AlexisMoisdon	|5|	80%|
 
 
 Les 10 comptes les plus mentionnés
