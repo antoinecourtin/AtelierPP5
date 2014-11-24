@@ -34,8 +34,10 @@ AlexisMoisdon	|5|	80%|
 
 
 Les 10 comptes les plus mentionnés
-Utilisateurs | Nbre de mentions|
---- | --- 
+
+
+Comptes | Nbre de mentions |
+--- | --- |
 @seeksanusername|	57|
 @LabexPasp|	34|
 @peccadille	|25|
