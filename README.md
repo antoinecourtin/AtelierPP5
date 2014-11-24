@@ -16,8 +16,8 @@ http://passes-present.eu/fr/atelier-5-pour-une-etude-des-usages-du-patrimoine-nu
 -----
 ### Quelques chiffres
 
-248 tweets (du 19 novembre au 23 novembre 2014, 238 tweets le jour de la journée d'étude) dont 127 RT
-45 comptes actifs différents sur le hashtag
+- 248 tweets (du 19 novembre au 23 novembre 2014, 238 tweets le jour de la journée d'étude) dont 127 RT
+- 45 comptes actifs différents sur le hashtag
 
 Utilisateurs | Nbre de tweets | % de RT
 --- | --- | ---
@@ -35,7 +35,7 @@ AlexisMoisdon	|5|	80%|
 
 Les 10 comptes les plus mentionnés
 Utilisateurs | Nbre de mentions|
---- | --- |
+--- | --- 
 @seeksanusername|	57|
 @LabexPasp|	34|
 @peccadille	|25|
